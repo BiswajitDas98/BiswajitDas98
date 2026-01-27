@@ -1,22 +1,32 @@
-# Biswajit Das 👋
+# Hi, I'm Biswajit Das 👋
 
-| About Me | Technical Skills |
-|--------|------------------|
-| Data Analyst focused on dashboards, data modeling, and spatial analytics | Power BI, DAX |
-| Hands-on with real-world datasets | Python, Pandas |
-| Interested in GIS-based insights | QGIS, GeoJSON |
-| Analytical reporting and KPIs | SQL |
+### 📊 Data Analyst | BI & Spatial Analytics
 
 ---
 
-## 📂 Featured Projects
-- 🗳️ Election & Survey Analysis Dashboards  
-- 📊 Marketing Performance Dashboards  
-- 🗺️ QGIS Temple Mapping  
+### 🧠 What I Do
+- Build interactive Power BI dashboards
+- Optimize DAX measures for performance
+- Create and analyze spatial datasets (GeoJSON, QGIS)
 
 ---
 
-## 🚀 Currently Working On
-- Advanced DAX optimization  
-- Spatial analytics in Power BI  
-- Portfolio project enhancements
+### 🛠 Tools & Technologies
+- Power BI | DAX | Power Query
+- Python | Pandas | GeoPandas
+- QGIS | GeoJSON
+- SQL
+
+---
+
+### 📂 Key Projects
+- 🗳️ Election & Survey Analysis Dashboards
+- 📊 Marketing Performance Dashboards
+- 🗺️ QGIS Temple Mapping
+
+---
+
+### 🚀 Currently Exploring
+- Advanced DAX patterns
+- GIS + BI integration
+- Analytics portfolio refinement
